@@ -1,7 +1,7 @@
-# Olá, me chamo Wendell Araújo! 
-## Bem vindo ao meu perfil GitHub 👋
-- Atualmente estou trabalhando em uma grande empresa de tecnologia como desenvolvedor de sistemas e cursando Gestão de TI
-- Estou sempre explorando novas tecnologias e práticas de desenvolvimento. Atualmente, aprofundo meu conhecimento em Projetos Pessoais.
+# Hello, my name is Wendell Araújo!
+## Welcome to my GitHub profile 👋
+- I'm currently working in a large technology company as a systems developer and studying IT Management.
+- I'm always exploring new technologies and development practices. I'm currently deepening my knowledge of Personal Projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wendell_araujo95) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wendell-araujo) 
