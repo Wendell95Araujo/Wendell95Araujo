@@ -3,7 +3,7 @@
 - I'm currently working in a large technology company as a systems developer and studying IT Management.
 - I'm always exploring new technologies and development practices. I'm currently deepening my knowledge of Personal Projects.
 
-  <a href="https://wendell-araujo.vercel.app" target="_blank">Visit my website</a>
+<a href="https://wendell-araujo.vercel.app" target="_blank" title="Wendell Araujo Developer">Visit my website</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wendell_araujo95) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wendell-araujo) 
